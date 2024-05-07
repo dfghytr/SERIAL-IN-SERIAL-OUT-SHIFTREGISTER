@@ -54,10 +54,10 @@ q[3] <= q[2];
 end
 endmodule
 ```
-
+```
 Developed by: Abdul kalaam K M
 RegisterNumber: 212223230003
-
+```
 
 
 **RTL LOGIC FOR SISO Shift Register**
