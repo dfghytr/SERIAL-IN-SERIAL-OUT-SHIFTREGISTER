@@ -32,13 +32,11 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
 **PROGRAM**
-
-/* 
-Developed by:N.NAVYA SREE
-RegisterNumber:212223040138
-
-*/
 ```
+Developed by:Abdul kalaam k m
+RegisterNumber:212223230003
+
+
 module EXP10(clk, sin, q);
 input clk;
 input sin;
